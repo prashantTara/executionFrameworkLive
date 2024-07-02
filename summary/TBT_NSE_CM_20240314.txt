@@ -1,0 +1,2 @@
+SINDHUTRAD_EQ minPNL:-10.45 maxPNL:64.70 Drawdown:75.15 FinalPNL:-10.45 MedianPNL:-10.45 buyVal:2610.50 sellVal:2601.00 buyQuant:130 sellQuant:130 buyTrades:4 sellTrades:13 buyTransactionCost:0.19 sellTransactionCost:0.76
+Total medianMinPNL:-10.45 medianMaxPNL:64.70 medianDrawdown:75.15 medianFinalPNL:-10.45 totalFinalPNL:-10.45 medianBuyValue:2610.50 medianSellValue:2601.00 totalBuyTransactionCost:0.19 totalSellTransactionCost:0.76 totalBuyTrades:4 totalSellTrades:13 exposureMax:2005 exposure75:1985 exposure50:0 exposureAvg:666.126943

@@ -1,0 +1,2 @@
+RAMASTEEL_EQ minPNL:-10.88 maxPNL:3.86 Drawdown:11.92 FinalPNL:1.13 MedianPNL:-5.04 buyVal:14357.50 sellVal:14363.85 buyQuant:338 sellQuant:338 buyTrades:136 sellTrades:104 buyTransactionCost:1.03 sellTransactionCost:4.19
+Total medianMinPNL:-10.88 medianMaxPNL:3.86 medianDrawdown:11.92 medianFinalPNL:1.13 totalFinalPNL:1.13 medianBuyValue:14357.50 medianSellValue:14363.85 totalBuyTransactionCost:1.03 totalSellTransactionCost:4.19 totalBuyTrades:136 totalSellTrades:104 exposureMax:1022 exposure75:299 exposure50:127 exposureAvg:197.028392

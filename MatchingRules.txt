@@ -1,0 +1,5 @@
+Rule1: Rule to match everything at open price at current time bar.
+Rule2: Rule to buy at high and sell at low at current time bar.
+Rule3: Rule to match everything at close price at current time bar.
+Rule4: Rule to match (High+Close)/2 for Buy, (Low+Close)/2 for sell at current time bar.
+Rule5: Rule to match with Limit Execution.

@@ -1,0 +1,7 @@
+profitBookingTargetPerLot=5000,7500
+stopLossLimit_=200,500
+profitBooking_=1000,2000
+initialOrderHitTime=1400,1330,1300
+f1=0.95
+f2=1.05
+startingLots=1

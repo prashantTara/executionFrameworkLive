@@ -1,0 +1,10 @@
+squareOffTime=140000,141500,143000,144500,150000,151000,151500,152000,152500
+subscriptionTime=91500
+tradeTime=91800,92000,92500,93000,94500,100000,103000,110000,113000,120000
+totalLots=100
+weeklyExpiryFile=/home/data/nsedata/expiryListWeekly_BANKNIFTY_201701_20220515.csv
+monthlyExpiryFile=/home/maitreya/s5-options-new/monthlyExpiry.txt
+executionType=HEDGE,EXIT
+hedgeType=FUTURES,OPTIONS_REBALANCE
+slType=SUM_DELTA,INDIVIDUAL_SL,INDEX_MOVEMENT
+SLValue=0.05,0.1,0.15,0.2,0.3,0.4,0.5,0.6,0.7

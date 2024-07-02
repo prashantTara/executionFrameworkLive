@@ -1,0 +1,1 @@
+Total medianMinPNL:0.00 medianMaxPNL:0.00 medianDrawdown:0.00 medianFinalPNL:0.00 totalFinalPNL:0.00 medianBuyValue:0.00 medianSellValue:0.00 totalBuyTransactionCost:0.00 totalSellTransactionCost:0.00 totalBuyTrades:0 totalSellTrades:0 exposureMax:0 exposure75:0 exposure50:0 exposureAvg:0.000000
